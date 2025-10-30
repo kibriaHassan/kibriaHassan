@@ -10,7 +10,7 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 - 🎓 Passionate about building scalable web and mobile applications
 - 💡 Skilled in **Java, JavaScript, Node.js, React, and Android Development**
@@ -18,7 +18,7 @@
 - 🎨 Crafting responsive UIs with **Tailwind CSS**, **Bootstrap**, and **HTML/CSS**
 - ⚙️ Solid foundation in **C/C++** and problem solving
 - 🔭 Currently diving deeper into backend architecture & cloud integration
-- ✍️ Always learning, always growing 🚀
+- ✍️ Always learning, always growing 
 
 ---
 
