@@ -1,10 +1,10 @@
 
-<h1 align="center">Hi there 👋, I'm Kibria</h1>
+<h1 align="center">Hi there , I'm Kibria</h1>
 <h3 align="center">Full-Stack Developer | Android Enthusiast | Firebase & Cloud Fanatic</h3>
 
 <p align="center">
   <a href="https://github.com/kibriaHassan">
-    <img src="https://komarev.com/ghpvc/?username=kibria900&label=Profile%20views&color=0e75b6&style=flat" alt="kibria900" />
+    <img src="https://komarev.com/ghpvc/?username=kibriahassan&label=Profile%20views&color=0e75b6&style=flat" alt="kibriahassan" />
   </a>
 </p>
 
@@ -43,7 +43,7 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kibria900&show_icons=true&theme=github_dark" alt="kibria900 GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kibria900&show_icons=true&theme=github_dark" alt="kibriahassan GitHub stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=kibria900&theme=github-dark&hide_border=false" alt="GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kibria900&layout=compact&theme=github_dark" alt="Top Langs" />
 </p>
