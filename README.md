@@ -43,9 +43,9 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kibria900&show_icons=true&theme=github_dark" alt="kibriahassan GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=kibria900&theme=github-dark&hide_border=false" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kibria900&layout=compact&theme=github_dark" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kibriahassan&show_icons=true&theme=github_dark" alt="kibriahassan GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=kibriahassan&theme=github-dark&hide_border=false" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kibriahassan&layout=compact&theme=github_dark" alt="Top Langs" />
 </p>
 
 ---
